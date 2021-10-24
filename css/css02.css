@@ -1,0 +1,19 @@
+body{
+    background-color: #334756;
+
+}
+div{ 
+    height: 100%;
+    width: 100%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top: 350px;
+}
+div{
+    background-color:black;
+}
+h1{
+    text-align: center;
+}
