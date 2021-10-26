@@ -1,0 +1,23 @@
+.container
+{
+    font-size: xx-large; 
+}
+body{
+    background-color: #334756;
+}
+/* .list-group-item { */
+    /* background-color:#CFB784; */
+/* } */
+
+.txt1{
+    background-color:wheat;
+}
+
+
+
+.txt2{
+    background-color: chartreuse;
+}
+.chat{
+    font-size: x-large;
+}
