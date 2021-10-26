@@ -1,0 +1,40 @@
+.view {
+    border-color: transparent;
+    background-color: initial !important;
+    color: initial
+}
+
+.form-control:focus {
+    outline: none;
+    box-shadow: none
+}
+
+.mt-5 {
+    margin-top: 10px
+}
+
+.mb-5 {
+    margin-bottom: 20px
+}
+
+body {
+    height: 100vh;
+    background-color: #334756;
+    background-color:#334756;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.card {
+    width: 350px;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    border: none
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none
+}

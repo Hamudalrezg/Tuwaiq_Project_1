@@ -16,8 +16,18 @@ body{
 
 
 .txt2{
-    background-color: chartreuse;
+    background-color: coral;
 }
 .chat{
     font-size: x-large;
 }
+.chat{
+     width: 83%;
+    height: 400px;
+    overflow-y: scroll;
+    list-style-type: none;
+}
+
+
+
+
