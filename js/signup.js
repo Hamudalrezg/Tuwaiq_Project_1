@@ -4,7 +4,6 @@ function User(FName, UName, Uemail, Upas) {
    this.Uemail = Uemail;
    this.Upas = Upas;
 }
-
 $('#signup').click(function () {
    let FName = $("#firstName").val();
    let UName = $("#username").val();
