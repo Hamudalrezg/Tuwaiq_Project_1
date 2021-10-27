@@ -21,17 +21,17 @@ $('document').ready(() => {
 
 function goToPage3() {
 
-    window.location.href = "../html/ht03.html";
+    window.location.href = "../html/chatLive.html";
 }
 
 function goToPage03() {
 
-    window.location.href = "../html/ht03.html";
+    window.location.href = "../html/chatLive.html";
 }
 
 function goToPage003() {
 
-    window.location.href = "../html/ht03.html";
+    window.location.href = "../html/chatLive.html";
 }
 $('#addComment').click(() => {
     const comment = $('#floatingTextarea2').val();

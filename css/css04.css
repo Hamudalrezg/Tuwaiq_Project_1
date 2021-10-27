@@ -28,7 +28,7 @@ body {
 
 .card {
     width: 350px;
-    background-color: #fff;
+    background-color:#CFB784;
     padding: 25px;
     border-radius: 10px;
     border: none
@@ -37,4 +37,13 @@ body {
 .btn:focus {
     outline: none;
     box-shadow: none
+}
+
+.hidden{
+    display:none;
+}
+.red
+{
+    text-align: center;
+    color: red;
 }
