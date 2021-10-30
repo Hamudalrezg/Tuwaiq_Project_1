@@ -1,6 +1,15 @@
 
 body {
     background-color: #334756;
+    
+    
+    
+}
+
+
+    #sing {
+        width: 1900px;
+    height: 300px;
 }
 
 .container {
@@ -67,3 +76,4 @@ body {
     text-align: center;
     color: red;
 }
+

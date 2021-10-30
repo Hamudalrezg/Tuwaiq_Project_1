@@ -31,7 +31,9 @@ body {
     background-color:#CFB784;
     padding: 25px;
     border-radius: 10px;
-    border: none
+    border: none;
+    
+    
 }
 
 .btn:focus {
@@ -46,4 +48,11 @@ body {
 {
     text-align: center;
     color: red;
+}
+
+h1{
+    color:#e7b51d;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
 }
